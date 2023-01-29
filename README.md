@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/a-simple-landing-page-with-the-card-component-a-LGIyr_l2)
+- Live Site URL: [Add live site URL here](https://fty57.github.io/qr-code-component-main-v2/)
 
 ## My process
 
